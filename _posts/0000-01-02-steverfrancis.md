@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Iam not your faster's text
 Use the left arrow to go back!
